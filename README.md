@@ -1,4 +1,4 @@
-instantaneous
+Instantaneous - a bookmarklet
 =============
 
 ### Usage
