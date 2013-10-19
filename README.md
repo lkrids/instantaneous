@@ -8,8 +8,11 @@ Any time you are on a page that isn't loading quickly enough just tap the Instan
 
 1. Copy this code:
 ```
-javascript:void((function(w){w.location="http://www.google.com/gwt/x?u="+encodeURIComponent(w.location)+"&noimg=1";)(window));
+javascript:void((function(w){  
+w.location="http://www.google.com/gwt/x?u="+  
+encodeURIComponent(w.location)+"&noimg=1";)(window));
 ```
+
 2. Bookmark this page
 3. Edit the bookmark you created in step 2
 4. Update the bookmark's url to be the code copied in step 1
