@@ -4,6 +4,8 @@ Instantaneous - a bookmarklet
 ### Usage
 Any time you are on a page that isn't loading quickly enough just tap the Instantaneous bookmarklet.  The bookmarklet proxies the page through a Google service that is designed to pull only the necessary content.  That means no javascript, images, ajax, etc.  Just HTML text.  This is simliar to Instapaper or Pocket except there is no sign up.
 
+This is a perfect example of a site that could benefit from this bookmarklet: http://www.webpagetest.org/result/140418_K0_A18/1/details/
+
 ### Installation
 
 1. Copy this code:
